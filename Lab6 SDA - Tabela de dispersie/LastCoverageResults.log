@@ -1,0 +1,21 @@
+[2021-05-06 17:40:46] [info] Start Program:
+Path:"C:\\Users\\Admin\\Documents\\VS Projects\\Lab6 SDA - Tabela de dispersie\\Debug\\Lab6 SDA - Tabela de dispersie.exe"
+Arguments:
+Working directory: "C:\\Users\\Admin\\Documents\\VS Projects\\Lab6 SDA - Tabela de dispersie\\"
+Modules: Selected: C:\Users\Admin\Documents\VS Projects\Lab6 SDA - Tabela de dispersie\Debug\Lab6 SDA - Tabela de dispersie.exe Excluded: 
+Sources: Selected: C:\Users\Admin\Documents\VS Projects\Lab6 SDA - Tabela de dispersie Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Admin\AppData\Local\Temp\fhflhgi1.eso 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-06 17:40:46] [info] Module: C:\Users\Admin\Documents\VS Projects\Lab6 SDA - Tabela de dispersie\Debug\Lab6 SDA - Tabela de dispersie.exe is selected because it matches selected pattern: C:\Users\Admin\Documents\VS Projects\Lab6 SDA - Tabela de dispersie\Debug\Lab6 SDA - Tabela de dispersie.exe
+[2021-05-06 17:41:05] [info] ----------------------------------------------------
+[2021-05-06 17:41:05] [info] Coverage binary generated in file: C:\Users\Admin\AppData\Local\Temp\fhflhgi1.eso
+[2021-05-06 17:41:05] [info] ----------------------------------------------------

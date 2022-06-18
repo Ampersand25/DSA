@@ -1,0 +1,12 @@
+﻿  IteratorMD.cpp
+C:\Users\Admin\Documents\VS Projects\Lab6 SDA - Tabela de dispersie\IteratorMD.cpp(72,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\VS Projects\Lab6 SDA - Tabela de dispersie\IteratorMD.cpp(96,10): warning C4018: '>=': signed/unsigned mismatch
+  Lab6 SDA - Tabela de dispersie.cpp
+  MD.cpp
+  TestExtins.cpp
+C:\Users\Admin\Documents\VS Projects\Lab6 SDA - Tabela de dispersie\TestExtins.cpp(230,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Admin\Documents\VS Projects\Lab6 SDA - Tabela de dispersie\TestExtins.cpp(239,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Admin\Documents\VS Projects\Lab6 SDA - Tabela de dispersie\TestExtins.cpp(240,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  TestScurt.cpp
+  Generating Code...
+  Lab6 SDA - Tabela de dispersie.vcxproj -> C:\Users\Admin\Documents\VS Projects\Lab6 SDA - Tabela de dispersie\Debug\Lab6 SDA - Tabela de dispersie.exe

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\TestScurt">
+      <UniqueIdentifier>{9d4dea0e-f8c4-4f0b-ba1b-476fa22d42fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TestExtins">
+      <UniqueIdentifier>{97132345-e5cf-4604-94e4-f7da8b514df2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Iterator">
+      <UniqueIdentifier>{2c37dc97-5dd0-4598-a03f-f81486b0b30b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LO">
+      <UniqueIdentifier>{f0505f75-6246-412d-a39a-4789ec7826ce}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestScurt.cpp">
+      <Filter>Source Files\TestScurt</Filter>
+    </ClCompile>
+    <ClCompile Include="TestExtins.cpp">
+      <Filter>Source Files\TestExtins</Filter>
+    </ClCompile>
+    <ClCompile Include="Iterator.cpp">
+      <Filter>Source Files\Iterator</Filter>
+    </ClCompile>
+    <ClCompile Include="LO.cpp">
+      <Filter>Source Files\LO</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TestScurt.h">
+      <Filter>Source Files\TestScurt</Filter>
+    </ClInclude>
+    <ClInclude Include="TestExtins.h">
+      <Filter>Source Files\TestExtins</Filter>
+    </ClInclude>
+    <ClInclude Include="Iterator.h">
+      <Filter>Source Files\Iterator</Filter>
+    </ClInclude>
+    <ClInclude Include="LO.h">
+      <Filter>Source Files\LO</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

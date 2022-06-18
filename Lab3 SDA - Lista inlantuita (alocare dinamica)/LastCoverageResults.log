@@ -1,0 +1,21 @@
+[2021-03-20 17:21:06] [info] Start Program:
+Path:"C:\\Users\\Admin\\Documents\\VS Projects\\Lab3 SDA - Lista inlantuita (alocare dinamica)\\Debug\\Lab3 SDA - Lista inlantuita (alocare dinamica).exe"
+Arguments:
+Working directory: "C:\\Users\\Admin\\Documents\\VS Projects\\Lab3 SDA - Lista inlantuita (alocare dinamica)\\"
+Modules: Selected: C:\Users\Admin\Documents\VS Projects\Lab3 SDA - Lista inlantuita (alocare dinamica)\Debug\Lab3 SDA - Lista inlantuita (alocare dinamica).exe Excluded: 
+Sources: Selected: C:\Users\Admin\Documents\VS Projects\Lab3 SDA - Lista inlantuita (alocare dinamica) Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Admin\AppData\Local\Temp\3tlrzho1.csr 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-20 17:21:06] [info] Module: C:\Users\Admin\Documents\VS Projects\Lab3 SDA - Lista inlantuita (alocare dinamica)\Debug\Lab3 SDA - Lista inlantuita (alocare dinamica).exe is selected because it matches selected pattern: C:\Users\Admin\Documents\VS Projects\Lab3 SDA - Lista inlantuita (alocare dinamica)\Debug\Lab3 SDA - Lista inlantuita (alocare dinamica).exe
+[2021-03-20 17:21:07] [info] ----------------------------------------------------
+[2021-03-20 17:21:07] [info] Coverage binary generated in file: C:\Users\Admin\AppData\Local\Temp\3tlrzho1.csr
+[2021-03-20 17:21:07] [info] ----------------------------------------------------

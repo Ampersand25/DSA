@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\VS Projects\Lab1 SDA - Vector (tablou unidimensional) dinamic\Debug\Lab1 SDA - Vector (tablou unidimensional) dinamic.exe
+C:\Users\Admin\Documents\VS Projects\Lab1 SDA - Vector (tablou unidimensional) dinamic\Debug\Lab1 SDA - Vector (tablou unidimensional) dinamic.pdb

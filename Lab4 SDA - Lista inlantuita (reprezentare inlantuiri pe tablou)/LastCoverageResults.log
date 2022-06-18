@@ -1,0 +1,21 @@
+[2021-05-04 21:50:28] [info] Start Program:
+Path:"C:\\Users\\Admin\\Documents\\VS Projects\\Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou)\\Debug\\Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou).exe"
+Arguments:
+Working directory: "C:\\Users\\Admin\\Documents\\VS Projects\\Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou)\\"
+Modules: Selected: C:\Users\Admin\Documents\VS Projects\Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou)\Debug\Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou).exe Excluded: 
+Sources: Selected: C:\Users\Admin\Documents\VS Projects\Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou) Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Admin\AppData\Local\Temp\sy3f12j0.w5u 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-04 21:50:28] [info] Module: C:\Users\Admin\Documents\VS Projects\Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou)\Debug\Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou).exe is selected because it matches selected pattern: C:\Users\Admin\Documents\VS Projects\Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou)\Debug\Lab4 SDA - Lista inlantuita (reprezentare inlantuiri pe tablou).exe
+[2021-05-04 21:50:29] [info] ----------------------------------------------------
+[2021-05-04 21:50:29] [info] Coverage binary generated in file: C:\Users\Admin\AppData\Local\Temp\sy3f12j0.w5u
+[2021-05-04 21:50:29] [info] ----------------------------------------------------
